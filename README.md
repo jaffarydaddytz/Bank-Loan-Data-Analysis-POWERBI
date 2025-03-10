@@ -7,6 +7,9 @@ This Power BI project analyzes various aspects of bank loans to provide valuable
 #### Dashboard 1: Summary
 Key  Performance Indicators (KPIs) Requireents
 1. Total Loan Application: Calculate the total number of loan applications received during a specified period.
-2. Total Funded Amount: Understand the toatal amount of funds disbursed as loans, Total Funded Amount
+2. Total Disbursed Amount: Understand the total amount of funds disbursed as loans.
+3. Total Loan Repayments : Calculate Loan Repaid by clients.
+
+![alt text](<output/Bank Loan Data analysis - Dashboard.PNG>)
 
 
