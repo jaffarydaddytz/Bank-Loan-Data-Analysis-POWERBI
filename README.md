@@ -10,6 +10,6 @@ Key  Performance Indicators (KPIs) Requireents
 2. Total Disbursed Amount: Understand the total amount of funds disbursed as loans.
 3. Total Loan Repayments : Calculate Loan Repaid by clients.
 
-![alt text](output/Bank Loan Data analysis - Dashboard.PNG)
+![alt text](./output/dashboardone.PNG)
 
 
